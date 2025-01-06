@@ -5,6 +5,8 @@ This repository contains information about the CAMINO program, a K-12 Outreach I
 
 Dr. Hector Pulgar, Associate Professor in the Min H. Kao Department of Electrical Engineering and Computer Science, leads the SPEED Lab.
 
+https://web.eecs.utk.edu/~hpulgar/
+
 Mentors involved during the execution of the CAMINO project include:
 Sebastian Martinez, Ph.D. student in Electrical Engineering
 Francisco Zelaya, Ph.D. student in Electrical Engineering
